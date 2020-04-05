@@ -1,0 +1,12 @@
+/* Card start*/
+.card {overflow:hidden}
+.card.large {
+height: 600px;
+-webkit-backface-visibility: hidden;
+backface-visibility: initial;
+border-radius: 5px;
+}
+/* Card end */
+.media-content {
+overflow: hidden;
+}
